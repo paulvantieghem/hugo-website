@@ -41,9 +41,6 @@ social:
 - icon: envelope
   icon_pack: fas
   link: mailto:paul.vantieghem@icloud.com
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/paul_vantieghem
 - icon: github
   icon_pack: fab
   link: https://github.com/paulvantieghem
