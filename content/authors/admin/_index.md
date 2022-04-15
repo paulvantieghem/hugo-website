@@ -6,7 +6,7 @@ title: Paul van Tieghem
 superuser: true
 
 # Role/position/tagline
-role: 
+role: MSc Mathematical Engineering
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -14,13 +14,14 @@ organizations:
   url: https://www.kuleuven.be/kuleuven
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My interests include robotics, autonomous vehicles and computer vision.
 
 # Interests to show in About widget
 interests:
 - Robotics
 - Autonomous Vehicles
-- Machine Learning (Computer Vision)
+- Machine Learning
+- Computer Vision
 
 # Education to show in About widget
 education:
@@ -39,7 +40,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: '/#contact'
+  link: mailto:paul.vantieghem@icloud.com
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/paul_vantieghem
@@ -54,8 +55,8 @@ social:
 # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.toml`, 
 # and uncomment the lines below.
 - icon: cv
-   icon_pack: ai
-   link: static/uploads/resume.pdf
+  icon_pack: ai
+  link: static/uploads/resume.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: "paul.vantieghem@gmail.com"
@@ -64,8 +65,6 @@ email: "paul.vantieghem@gmail.com"
 highlight_name: true
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+Blabla blabla
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "static/uploads/resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
