@@ -24,7 +24,7 @@ date_format: Jan 2006
 experience:
   - title: Software Engineer
     company: NeuroTech Leuven
-    company_url: 'www.ntxl.com'
+    company_url: 'https://www.ntxl.org'
     company_logo: org-gc
     location: Leuven, BE
     date_start: '2022-03-01'
@@ -42,7 +42,7 @@ experience:
         
   - title: Sensor Integration Intern
     company: IVEX
-    company_url: 'www.ivex.ai'
+    company_url: 'https://www.ivex.ai'
     company_logo: org-x
     location: Leuven, BE
     date_start: '2020-07-01'
