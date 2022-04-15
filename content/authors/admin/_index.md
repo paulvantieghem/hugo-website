@@ -22,6 +22,7 @@ interests:
 - Autonomous Vehicles
 - Machine Learning
 - Computer Vision
+- Control Systems
 
 # Education to show in About widget
 education:
@@ -62,6 +63,6 @@ email: "paul.vantieghem@gmail.com"
 highlight_name: true
 ---
 
-Blabla blabla
+Passionate about making machines of any kind autonomous. Currently focused on computer vision and autonomous driving. 
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "static/uploads/resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
