@@ -22,19 +22,8 @@ interests:
 - Autonomous Vehicles
 - Machine Learning
 - Computer Vision
+- Neurotechnology
 - Control Systems
-
-# Skills to show in About widget
-skills:
-- Python
-- C++
-- MATLAB
-- Java
-- Fortran
-- PyTorch
-- ROS
-- OpenCV
-- pandas, numpy, ...
 
 # Education to show in About widget
 education:
