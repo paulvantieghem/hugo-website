@@ -11,7 +11,7 @@ role: MSc Mathematical Engineering
 # Organizations/Affiliations to show in About widget
 organizations:
 - name: KU Leuven
-  url: https://www.kuleuven.be/kuleuven
+  url: https://www.kuleuven.be/english/kuleuven/index.html
 
 # Short bio (displayed in user profile at end of posts)
 bio: My interests include robotics, autonomous vehicles and computer vision.
