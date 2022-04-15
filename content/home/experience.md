@@ -27,9 +27,18 @@ experience:
     company_url: 'www.ntxl.com'
     company_logo: org-gc
     location: Leuven, BE
-    date_start: '2021-03-01'
+    date_start: '2022-03-01'
     date_end: ''
     description: NeuroTech Leuven competes in non-invasive neurotechnology competitions as a multidisciplinary team. My main focus is on signal processing and machine learning to filter and classify EEG data collected from EEG headsets.
+    
+  - title: Member
+    company: Junior Orsi Academy
+    company_url: 'https://www.juniororsi.be'
+    company_logo: org-gc
+    location: Melle, BE
+    date_start: '2021-09-25'
+    date_end: ''
+    description: As a member of Junior Orsi following the Engineering track, I discover the possibilities and benefits of the use of technology in the healthcare sector through the events orginised by Junior Orsi.
         
   - title: Sensor Integration Intern
     company: IVEX
