@@ -25,7 +25,7 @@ experience:
   - title: Software Engineer
     company: NeuroTech Leuven
     company_url: 'https://www.ntxl.org'
-    company_logo: ivex.jpeg
+    company_logo:
     location: Leuven, BE
     date_start: '2022-03-01'
     date_end: ''
