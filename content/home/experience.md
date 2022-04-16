@@ -25,7 +25,7 @@ experience:
   - title: Software Engineer
     company: NeuroTech Leuven
     company_url: 'https://www.ntxl.org'
-    company_logo: org-gc
+    company_logo: neurotech_leuven
     location: Leuven, BE
     date_start: '2022-03-01'
     date_end: ''
@@ -34,7 +34,7 @@ experience:
   - title: Member
     company: Junior Orsi Academy
     company_url: 'https://www.juniororsi.be'
-    company_logo: org-gc
+    company_logo: junior_orsi
     location: Melle, BE
     date_start: '2021-09-25'
     date_end: ''
@@ -43,7 +43,7 @@ experience:
   - title: Sensor Integration Intern
     company: IVEX
     company_url: 'https://www.ivex.ai'
-    company_logo: org-x
+    company_logo: ivex
     location: Leuven, BE
     date_start: '2020-07-01'
     date_end: '2020-09-01'
